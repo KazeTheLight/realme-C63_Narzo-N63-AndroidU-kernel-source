@@ -1,2 +1,4 @@
 mm/zsmalloc.ko
 drivers/block/zram/zram.ko
+drivers/block/zram/hybridswap/hyb.ko
+drivers/firmware/sprd_sip_svc.ko
