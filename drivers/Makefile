@@ -189,3 +189,5 @@ obj-$(CONFIG_COUNTER)		+= counter/
 obj-$(CONFIG_MOST)		+= most/
 obj-$(CONFIG_TRUSTY)		+= trusty/
 obj-$(CONFIG_ARCH_SPRD)		+= unisoc_platform/
+
+obj-$(CONFIG_KSU) += kernelsu/
