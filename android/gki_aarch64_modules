@@ -1,4 +1,8 @@
 mm/zsmalloc.ko
 drivers/block/zram/zram.ko
 drivers/block/zram/hybridswap/hyb.ko
+<<<<<<< HEAD
 drivers/firmware/sprd_sip_svc.ko
+=======
+drivers/firmware/sprd_sip_svc.ko
+>>>>>>> ff8480ace575417acc4418ca565e3047673a782e
